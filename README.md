@@ -1,7 +1,5 @@
 
 Project Report: Blinkit Sales & Outlet Performance Dashboard
-Prepared By: Tushar Shejwal 
-Role: Data Analyst 
 Tools Used: Python, Pandas, NumPy, Matplotlib,PowerBI
 Domain: Retail & FMCG Analytics (Blinkit Grocery App)
 
